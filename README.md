@@ -1,4 +1,4 @@
 # rough
 my first github repo
 <br>
-author-eshita zjigyasu
+author-eshita
